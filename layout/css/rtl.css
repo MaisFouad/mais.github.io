@@ -1,0 +1,7 @@
+html{
+    direction: rtl;
+}
+.container{
+    direction: rtl;
+    text-align: justify;
+}
